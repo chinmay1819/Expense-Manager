@@ -1,0 +1,22 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "s.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinmay1819/Expense-Manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinmay1819/Expense-Manager/issues"
+  },
+  "homepage": "https://github.com/chinmay1819/Expense-Manager#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
